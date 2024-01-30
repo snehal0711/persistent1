@@ -8,6 +8,8 @@ public class Demo {
 
         System.out.println("what is your score");
 
+        System.out.println("xyz");
+
 
         System.out.println("..........");
 
