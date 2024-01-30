@@ -5,5 +5,17 @@ public class Demo {
         System.out.println("hellooooo");
 
         System.out.println("snehal sunil choudhar")
+
+        System.out.println("what is your score");
+
+        System.out.println("xyz");
+
+
+        System.out.println("..........");
+
+        System.out.println("please share your resume");
+
+        System.out.println("qualified");
+        
     }
 }
