@@ -14,5 +14,9 @@ public class Demo {
         System.out.println("..........");
 
         System.out.println("please share your resume");
+
+        if(fail){
+            
+        }
     }
 }
